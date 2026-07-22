@@ -1,57 +1,49 @@
 <h1 align="center">Ivan</h1>
-<p align="center">Веб-розробка · Telegram-боти · AI-інтеграції — на власній платформі SCI</p>
+<p align="center">Web development · Telegram bots · AI integrations — built on my own platform, SCI</p>
 
 <p align="center">
-  <a href="https://neurallabs753-commits.github.io/portfolio/">Портфоліо</a> ·
+  <a href="https://neurallabs753-commits.github.io/portfolio/">Portfolio</a> ·
   <a href="https://www.fiverr.com/s/Ay95roP">Fiverr</a> ·
   <a href="https://t.me/NeuralMrIvan">Telegram</a>
 </p>
 
 ---
 
-## Що я роблю
+## What I do
 
-Лендинги за 24-48 годин, Telegram-боти за 2-3 дні, AI-асистенти — не тому що абияк, а тому що рутина автоматизована на власній платформі SCI. Кожен проєкт я особисто перевіряю перед здачею.
+Landing pages in 24-48 hours, Telegram bots in 2-3 days, AI assistants — not because it's rushed, but because the routine work runs on my own automated platform, SCI. I personally review every project before delivery.
 
-## Живі проєкти
+## Live project
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-**[Портфоліо-сайт](https://neurallabs753-commits.github.io/portfolio/)**
-<br>Ручний HTML/CSS/JS, без конструкторів. Анімація, мультимовність, повна адаптивність.
+**[Portfolio site](https://neurallabs753-commits.github.io/portfolio/)**
+<br>Hand-coded HTML/CSS/JS — no page builders. Custom intro animation, full i18n (UA/EN), fully responsive.
 
 <img src="assets/portfolio.jpg" width="100%">
-
-</td>
-<td width="50%">
-
-**[Aroma Café — лендинг кав'ярні](https://neurallabs753-commits.github.io/aroma-cafe-landing/)**
-<br>Концепт-проєкт: інтерактивне меню, форма бронювання, SEO-розмітка. Перевірено живим headless-браузером.
-
-<img src="assets/aroma.jpg" width="100%">
 
 </td>
 </tr>
 </table>
 
-## SCI — платформа, на якій це все побудовано
+## SCI — the platform behind all of this
 
-Нейронками я цікавився ще з часів першого ChatGPT. На початку 2024 почав реально розбиратись, як воно працює під капотом. Тоді у мене був лише старий ноут з Radeon-відеокартою 2021 року — про локальні нейронки на ньому можна було забути.
+I've been interested in neural networks since the first ChatGPT. Early 2024, I started actually digging into how it works under the hood. At the time I only had an old laptop with a 2021 Radeon GPU — local models were out of the question.
 
-Наприкінці 2024 купив свій перший ПК — RTX 3050, 8 ГБ. Для локальних нейронок цього мало, але саме тоді мені сподобався Cursor, і я вирішив спробувати зробити щось подібне сам.
+By late 2024 I bought my first real PC — an RTX 3050, 8GB. Still not enough for serious local models, but around then I got into Cursor and decided to try building something like it myself.
 
-**Початок був скромний**: невеликий AI-асистент для себе. Побачив хайп навколо агентів — розширив функціонал. Зібрав першу повноцінну тестову версію, почав додавати функції одну за одною — а коли розрослось до 10-15 тисяч рядків, почав зрізати зайве і переписувати половину бекенда наново. Паралельно пів року намагався витиснути з локальних моделей на 3050 хоч щось притомне — максимальний приріст продуктивності за весь цей час склав 10-15%. Стало зрозуміло: потрібен інший підхід.
+**It started small**: a modest personal AI assistant. Then I saw the hype around agents and expanded the scope. Built a first full working version, kept adding features one by one — by 10-15k lines it had grown enough that I started cutting things back down, rewriting half the backend more than once. In parallel, I spent about six months trying to squeeze anything usable out of local models on the 3050 — best case, a 10-15% performance gain. That alone made it clear a different approach was needed.
 
-Потім знайшов безкоштовні онлайн-моделі з лімітами — і зміг зробити першого реального мультиагента, який писав нормальний код і адекватно шукав інформацію. Підключив кілька акаунтів паралельно — вийшла мультиагентна система, що працює одночасно з десятками моделей, рідко впираючись у ліміти.
+Then I found free-tier online models with rate limits — and built my first real multi-agent setup that could write actual working code and do reasonably competent research. Connected several accounts in parallel, and it became a real multi-agent system running across dozens of models at once, rarely hitting limits.
 
-**Що реально працює зараз**: повноцінна кодерська мультиагентна система, пам'ять, база даних, робота з терміналом, генерація зображень, керування через Telegram/Discord-ботів.
+**What actually works today**: a full multi-agent coding system, memory, a database layer, terminal access, image generation, Telegram/Discord bot control.
 
-**Що ще не стабільно (чесно)**: режим автопілота (система сама керує застосунками) і голосовий асистент Jarvis — обидва існують, але працюють з перебоями.
+**What's still rough (honestly)**: an autopilot mode (the system driving apps on its own) and a voice assistant, Jarvis — both exist, both still work inconsistently.
 
-**Далі**: платні API — Claude Code, Codex, моделі OpenAI/Anthropic. Починаю з DeepSeek і найдешевшої моделі Claude.
+**Next**: paid APIs — Claude Code, Codex, OpenAI/Anthropic models. Starting with DeepSeek and the cheapest Claude tier.
 
 ---
 
-<p align="center"><sub>Веб-розробка, боти, AI-інтеграції — <a href="https://www.fiverr.com/s/Ay95roP">fiverr.com/s/Ay95roP</a></sub></p>
+<p align="center"><sub>Web development, bots, AI integrations — <a href="https://www.fiverr.com/s/Ay95roP">fiverr.com/s/Ay95roP</a></sub></p>

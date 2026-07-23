@@ -9,25 +9,6 @@
 
 ---
 
-## What I do
-
-Landing pages in 24-48 hours, Telegram bots in 2-3 days, AI assistants — not because it's rushed, but because the routine work runs on my own automated platform, SCI. I personally review every project before delivery.
-
-## Live project
-
-<table>
-<tr>
-<td width="60%">
-
-**[Portfolio site](https://neurallabs753-commits.github.io/portfolio/)**
-<br>Hand-coded HTML/CSS/JS — no page builders. Custom intro animation, full i18n (UA/EN), fully responsive.
-
-<img src="assets/portfolio.jpg" width="100%">
-
-</td>
-</tr>
-</table>
-
 ## SCI — the platform behind all of this
 
 <table>
@@ -60,6 +41,27 @@ Then I found free-tier online models with rate limits — and built my first rea
 **What's still rough (honestly)**: an autopilot mode (the system driving apps on its own) and a voice assistant, Jarvis — both exist, both still work inconsistently.
 
 **Next**: paid APIs — Claude Code, Codex, OpenAI/Anthropic models. Starting with DeepSeek and the cheapest Claude tier.
+
+---
+
+## What I do
+
+Landing pages in 24-48 hours, Telegram bots in 2-3 days, AI assistants — not because it's rushed, but because the routine work runs on my own automated platform, SCI. I personally review every project before delivery.
+
+## Live project
+
+<table>
+<tr>
+<td width="60%">
+
+**[Portfolio site](https://neurallabs753-commits.github.io/portfolio/)**
+<br>I build quality, fully responsive websites. Custom intro animation, full i18n (UA/EN).
+
+<img src="assets/portfolio.jpg" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 

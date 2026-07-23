@@ -48,6 +48,27 @@ Then I found free-tier online models with rate limits — and built my first rea
 
 **Next**: paid APIs — Claude Code, Codex, OpenAI/Anthropic models. Starting with DeepSeek and the cheapest Claude tier.
 
+## What I'm building next
+
+Extending things that already partially exist in SCI:
+
+| Feature | What it does |
+|---|---|
+| **Transparent task cost** | SCI predicts the token budget and cost before starting, then shows real spend after — no after-the-fact surprises |
+| **Background security scanning** | A dedicated agent continuously checks generated code for vulnerabilities (SQL injection, XSS, hardcoded secrets) |
+| **Self-updating docs** | Documentation that regenerates itself whenever the underlying code changes |
+| **Overnight autonomous work queue** | Hand off a task list before bed, wake up to a real report — what got done, what got stuck, and why (needs paid models, a bigger API budget, and a carefully tuned prompt — not reliable on the free tier) |
+| **Explainable routing** | Ask "why this model, why this approach" on any answer and get a real, traced reason — not a brush-off |
+
+Bigger, further out:
+
+| Feature | What it does |
+|---|---|
+| **Multi-model consensus** | Critical code gets written independently by 2-3 models, then a fourth compares and picks the best version |
+| **Voice-driven coding** | Describe a feature out loud — it lands in the code, with a checkpoint to roll back |
+| **A/B design variants** | One brief, 2-3 real design directions generated up front — client picks, instead of waiting on revisions |
+| **Reuse of proven solutions** | SCI recognizes when a new task resembles past work and reuses a tested component instead of reinventing it |
+
 ---
 
 ## What I do

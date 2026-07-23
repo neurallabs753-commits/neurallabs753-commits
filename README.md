@@ -13,13 +13,19 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+
+<img src="assets/sci_chat.jpg" width="100%">
+<p align="center"><sub>Main chat — model/agent selection, live token stream, per-chat System Prompt and temperature controls.</sub></p>
+
+</td>
+<td width="33%">
 
 <img src="assets/sci_kernel_build.jpg" width="100%">
 <p align="center"><sub>Kernel building the actual Aroma Café landing page — 8 agents in parallel, 284 lines, ready.</sub></p>
 
 </td>
-<td width="50%">
+<td width="33%">
 
 <img src="assets/sci_editor_agent.jpg" width="100%">
 <p align="center"><sub>Built-in editor with an AI agent panel — explain, fix bugs, refactor, generate tests/docs, security review.</sub></p>

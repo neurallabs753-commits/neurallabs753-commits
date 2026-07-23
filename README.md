@@ -30,8 +30,22 @@ Landing pages in 24-48 hours, Telegram bots in 2-3 days, AI assistants — not b
 
 ## SCI — the platform behind all of this
 
-<img src="assets/sci_dashboard.jpg" width="100%">
-<p align="center"><sub>SCI's own command center — real GPU/RAM/VRAM gauges, the agent pipeline (Route → Plan → Execute → Review → Final → Deliver), and the autonomy loop ticking every 120s in the background.</sub></p>
+<table>
+<tr>
+<td width="50%">
+
+<img src="assets/sci_kernel_build.jpg" width="100%">
+<p align="center"><sub>Kernel building the actual Aroma Café landing page — 8 agents in parallel, 284 lines, ready.</sub></p>
+
+</td>
+<td width="50%">
+
+<img src="assets/sci_editor_agent.jpg" width="100%">
+<p align="center"><sub>Built-in editor with an AI agent panel — explain, fix bugs, refactor, generate tests/docs, security review.</sub></p>
+
+</td>
+</tr>
+</table>
 
 I've been interested in neural networks since the first ChatGPT. Early 2024, I started actually digging into how it works under the hood. At the time I only had an old laptop with a 2021 Radeon GPU — local models were out of the question.
 

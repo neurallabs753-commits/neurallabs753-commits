@@ -40,9 +40,31 @@ By late 2024 I bought my first real PC — an RTX 3050, 8GB. Still not enough fo
 
 **It started small**: a modest personal AI assistant. Then I saw the hype around agents and expanded the scope. Built a first full working version, kept adding features one by one — by 10-15k lines it had grown enough that I started cutting things back down, rewriting half the backend more than once. In parallel, I spent about six months trying to squeeze anything usable out of local models on the 3050 — best case, a 10-15% performance gain. That alone made it clear a different approach was needed.
 
+<p align="center">
+<img src="assets/history_local_40k.jpg" width="60%">
+<br><sub>~40k lines in — the most polished the local-only version ever got, right before I gave up on squeezing more out of the 3050.</sub>
+</p>
+
 Then I found free-tier online models with rate limits — and built my first real multi-agent setup that could write actual working code and do reasonably competent research. Connected several accounts in parallel, and it became a real multi-agent system running across dozens of models at once, rarely hitting limits.
 
 **What actually works today**: a full multi-agent coding system, memory, a database layer, terminal access, image generation, Telegram/Discord bot control.
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="assets/history_imagegen_55k.jpg" width="100%">
+<p align="center"><sub>~55-60k lines — image generation through a connected ComfyUI: the model writes its own prompt, picks LoRAs/checkpoints/ControlNet, and generates.</sub></p>
+
+</td>
+<td width="50%">
+
+<img src="assets/history_imagegen_60k.jpg" width="100%">
+<p align="center"><sub>Same pipeline, a cleaner result — same session, no manual prompt engineering on my end.</sub></p>
+
+</td>
+</tr>
+</table>
 
 **What's still rough (honestly)**: an autopilot mode (the system driving apps on its own) and a voice assistant, Jarvis — both exist, both still work inconsistently.
 

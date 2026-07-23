@@ -1,5 +1,5 @@
-<h1 align="center">Ivan</h1>
-<p align="center">Web development · Telegram bots · AI integrations — built on my own platform, SCI</p>
+<h1 align="center">SCI</h1>
+<p align="center">Web development · Telegram bots · AI integrations — my own automated platform, run by Ivan</p>
 
 <p align="center">
   <a href="https://neurallabs753-commits.github.io/portfolio/">Portfolio</a> ·
